@@ -1,9 +1,16 @@
 ##  Taimoor Khan
-##### Email: ........
+#### Email: ........
 
+#### [StackOverflow]()
 #### [Kaggle](https://www.kaggle.com/taimoor2000)
 #### [LeetCode](https://leetcode.com/taimooor/)
 #### [Zindi]()
+#### [Hackerrank]()
+#### [CodeWars]()
+#### [DevPost]()
+
+
+
 
 ## Projects
 --
