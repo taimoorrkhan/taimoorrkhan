@@ -1,10 +1,25 @@
 <h1 align="center">Hi 👋, I'm Taimoor</h1>
-<h3 align="center">Student of Curiosity</h3>
-<div>&nbsp;</div>
+<h3 align="center">A Curios Mind</h3>
 <div>&nbsp;</div>
 <div>
     <samp>
-        <h2 align="center">You Can Reach me by</h2>
+        <h2 align="center">About me</h2>
+        <p align="center">
+            <br>
+--Mern Stack
+
+--Machine Learning
+
+--Neural Networks
+
+--Deep Learning
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Social Media</h2>
         <p align="center">
             <br>
             <a href="https://www.linkedin.com/in/taimooor/" target="blank"><img align="center"
@@ -28,7 +43,6 @@
         </p>
     </samp>
 </div>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>
     <samp>
@@ -57,7 +71,6 @@
     </samp>
 </div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 <div>
     <samp>
         <h2 align="center">Languages I work in</h2>
@@ -76,7 +89,6 @@
         </p>
     </samp>
 </div>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>
     <samp>
@@ -98,7 +110,6 @@
         </p>
     </samp>
 </div>
-<div>&nbsp;</div>
 <div>&nbsp;</div>
 <div>
     <samp>
@@ -134,7 +145,6 @@
     </samp>
 </div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
 <div>
     <samp>
         <h2 align="center">Tools and Services</h2>
@@ -151,25 +161,28 @@
     </samp>
 </div>
 <div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Projects</h2>
+        <p align="center">
+            <br>
+        </p>
+    </samp>
+</div>
 <div>&nbsp;</div>
-<div>&nbsp;</div>
+<samp>
+ <h2 align="center">Github Stats</h2>
 <p align="center">
-    <p>&nbsp;<img align="center"
-            src="https://github-readme-stats.vercel.app/api?username=taimooorr&show_icons=true&locale=en" alt="taimooorr" />
-    </p>
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=taimooorr&" alt="taimooorr" /></p>
+  <br/>
+  <a href=""><img alt="Taimoor's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=taimooorr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href=""><img alt="Taimoor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimooorr&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+ <img align="center" src="https://streak-stats.demolab.com/?user=taimooorr&theme=react" alt="Taimoor's Github Stats" />
+  <br/>
+  <div>&nbsp;</div>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
+</samp>
 
-
-## Area Of Intrerest
-
---Mern Stack
-
---Machine Learning
-
---Neural Networks
-
---Deep Learning
 
 
 
