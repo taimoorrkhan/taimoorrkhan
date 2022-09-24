@@ -1,7 +1,8 @@
-<h1 align="center">Hi 👋, I'm Taimoor</h1>
+<a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assests/name.gif)</a>
 <h3 align="center">A Curios Mind</h3>
 <div>&nbsp;</div>
 <div>
+assets
     <samp>
         <h2 align="center">About me</h2>
         <p align="center">
