@@ -1,4 +1,4 @@
-<a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assests/name.gif)</a>
+<a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assets/name.gif)</a>
 <h3 align="center">A Curios Mind</h3>
 <div>&nbsp;</div>
 <div>
