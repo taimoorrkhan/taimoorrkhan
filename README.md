@@ -160,6 +160,12 @@
         <h2 align="center">Projects</h2>
         <p align="center">
             <br>
+                <a href="https://github.com/taimooorr/Attendace-With-FaceRecognition">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taimooorr&repo=Attendace-With-FaceRecognition&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10"/>
+                </a>
+                <a href="https://github.com/taimooorr/GuessMeGame">
+                <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=taimooorr&repo=GuessMeGame&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10"/>
+                </a>
         </p>
     </samp>
 </div>
