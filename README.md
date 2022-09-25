@@ -1,18 +1,9 @@
 <a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assets/name.gif)</a>
-<h3 align="center">A Curios Mind</h3>
-<div>&nbsp;</div>
 <div>
     <samp>
         <h2 align="center">About me</h2>
         <p align="center">
             <br>
---Mern Stack
-
---Machine Learning
-
---Neural Networks
-
---Deep Learning
         </p>
     </samp>
 </div>
@@ -170,6 +161,7 @@
     </samp>
 </div>
 <div>&nbsp;</div>
+<div>
 <samp>
  <h2 align="center">Github Stats</h2>
 <p>
@@ -182,6 +174,9 @@
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
 </samp>
+
+</div>
+
 
 
 
