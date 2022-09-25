@@ -175,7 +175,7 @@
  <h2 align="center">Github Stats</h2>
 <p>
   <br/>
-  <a href=""><img alt="Taimoor's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=taimooorr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
+  <a href=""><img alt="Taimoor's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=taimooorr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10"height="192px"/></a>
   <a href=""><img alt="Taimoor's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimooorr&langs_count=8&layout=compact&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px"/></a>
  <img src="https://streak-stats.demolab.com/?user=taimooorr&theme=react" alt="Taimoor's Github Stats" />
   <br/>
