@@ -84,26 +84,6 @@
     </samp>
 </div>
 <div>&nbsp;</div>
-<div>
-    <samp>
-        <h2 align="center">Databases i use</h2>
-        <p align="center">
-            <br>
-            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
-                    alt="mongodb" height="30">
-            </a>
-            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
-                    alt="postgresql" height="30">
-            </a>
-            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
-                    alt="firebase" height="30" />
-            </a>
-        </p>
-    </samp>
-</div>
 <div>&nbsp;</div>
 <div>
     <samp>
@@ -118,23 +98,13 @@
                     src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
                     alt="express" height="30" />
             </a>
-            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                    alt="react" height="30" />
         </p>
         <p align="center">
             <br>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                     src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
                     alt="bootstrap" height="30" width="90" />
-            </a>
-            <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
-                    alt="flutter" height="30" width="90" />
-            </a>
-            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                    alt="reactnative" height="30"  width="90"/> </a>
+            </a>     
         </p>
     </samp>
 </div>
