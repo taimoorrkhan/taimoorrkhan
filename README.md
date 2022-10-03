@@ -143,7 +143,7 @@
 <div>
 <samp>
  <h2 align="center">Github Stats</h2>
-<p align="center">
+<p>
   <br/>
   <img alt="Taimoor's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=taimooorr&show_icons=true&count_private=true&theme=react&bg_color=1F222E&title_color=7cebf5&icon_color=2d7de4&show_icons=true&border_color=7cebf5&border_radius=10" height="192px" width="430px" />
  <img src="https://streak-stats.demolab.com?user=taimooorr&theme=react&border=7CEBF5&background=1F222E&border_radius=10" alt="Taimoor's Github Stats" height="192px" width="430px" />
