@@ -91,27 +91,10 @@
         <h2 align="center"> Frameworks </h2>
         <p align="center">
             <br>
-            <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-                <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"
-                    alt="nodejs" height="30" />
-            </a>
-            <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
-                    alt="express" height="30" />
-            </a>
-             <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
-                    alt="react" height="30" />
-        </p>
-        <p align="center">
-            <br>
             <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
                     src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
                     alt="bootstrap" height="30" width="90" />
             </a>
-            <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
-                    src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
-                    alt="flutter" height="30" width="90" />
             </a>
             <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
                     src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
