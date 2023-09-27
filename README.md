@@ -37,11 +37,16 @@
 </p>
 
 <!-- Add a "DevOps" section with icons -->
-<h3 align="left">DevOps:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-  <!-- Add more icons for your DevOps tools here -->
+
+<h3 align="center">DevOps:</h3>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="50" height="50" style="padding: 10px;"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50" style="padding: 10px;"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="50" height="50" style="padding: 10px;"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/aws-original-wordmark.svg" alt="AWS" width="50" height="50" style="padding: 10px;"/>
+  <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/main/svg/Skills/Devops/azure-icon.svg" alt="Azure" width="50" height="50" style="padding: 10px;"/>
 </p>
+
 
 <!-- Add a "Mobile Development" section with icons -->
 <h3 align="left">Mobile Development:</h3>
