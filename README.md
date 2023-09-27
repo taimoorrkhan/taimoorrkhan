@@ -4,10 +4,7 @@
 </div>
 <div>
     <samp>
-        <h2 align="center">About me</h2>
-        <p align="center">
-            <br>
-        </p>
+       <h3 align="center">A Full Stack Developer with DevOps Expertise</h3>
     </samp>
 </div>
 <div>&nbsp;</div>
