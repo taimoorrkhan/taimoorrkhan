@@ -1,10 +1,6 @@
 <a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assets/name.gif)</a>
-<!-- Add a header with an animated banner -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 
-<!-- Add your name and tagline -->
-<h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
-<h3 align="center">A Full Stack Developer with DevOps Expertise</h3>
+<h3 align="center"> A Full Stack Developer with DevOps Expertise </h3>
 
 <!-- Add profile views and GitHub profile trophy -->
 <p align="left"> 
