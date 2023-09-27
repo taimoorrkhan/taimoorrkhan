@@ -1,57 +1,133 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-<h1 align="center">Hi 👋, I'm Taimoor Khan</h1>
-<h3 align="center">A Full Stack Developer with DevOps Expertise</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=taimoorrkhan&label=Profile%20views&color=0e75b6&style=flat" alt="taimoorrkhan" /> </p>
-
-
-<div> <a href="https://twitter.com/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/taimoorrkhann" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="center">Socials:</h3>
-<p align="center">
-<a href="https://twitter.com/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="taimoorrkhan" height="30" width="40" /></a><a href="https://linkedin.com/in/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="taimoorrkhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/taimooor" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="taimooor" height="30" width="40" /></a><a href="https://www.leetcode.com/taimooor" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="taimooor" height="30" width="40" /></a><a href="https://instagram.com/taimoorrkhann" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="taimoorrkhann" height="30" width="40" /></a></p>
-<h3 align="center"> Programming  Languages:</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/csharp-original.svg" alt="Csharp" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/java-original.svg" alt="Java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/python-original.svg" alt="Python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/typescript-original.svg" alt="Typescript" width="40" height="40"/>
-</p>
-<h3 align="center"> DevOps:</h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/docker-original-wordmark.svg" alt="Docker" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/gnu_bash-icon.svg" alt="Gnu Bash" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40"/>
-</p>
-
-<h3 align="center"> Framewroks and Others </h3>
-<p align="center">
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Frontend/redux-original.svg" alt="Redux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/nodejs-original-wordmark.svg" alt="NodeJs" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Backend/express-original-wordmark.svg" alt="Express" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/microsoft-sql-server-logo.svg" alt="Microsoft Sql Server" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mongodb-original-wordmark.svg" alt="Mongodb" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Database/mysql-original-wordmark.svg" alt="Mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/BackendService/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/header_logo.svg" alt="React Native" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Mobile/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/dot-net-original-wordmark.svg" alt="Dot Net" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Software/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-</p>
-
-<h3 align="left">Stars</h3>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&hide_progress=true&theme=transparent" alt=taimoorrkhan />
-
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&locale=en&theme=transparent" alt="taimoorrkhan" /></p>
-
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-
-
+<a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assets/name.gif)</a>
+<div>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=taimooorr&style=for-the-badge&color=blueviolet" alt="Taimoor" /> </p>
+</div>
+<div>
+    <samp>
+        <h2 align="center">About me</h2>
+        <p align="center">
+            <br>
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Social Media</h2>
+        <p align="center">
+            <br>
+            <a href="https://www.linkedin.com/in/taimooor/" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+                    alt="Linkedin" height="30"  /></a>
+            <a href="https://www.facebook.com/IAmTaimoorKhan/" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
+                    alt="Facebook" height="30" /></a>
+            <a href="mailto:sp20-bcs-026@cuiatk.edu.pk" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+                    alt="Email" height="30" /></a>
+        </p>
+        <p align="center">
+            <a href="https://instagram.com/taimoooorrr" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+                    alt="Instagram" height="30" /></a>
+            <a href="https://twitter.com/taimoooorr" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+                    alt="Twitter" height="30" /></a>
+            <br>
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Developer/Forums</h2>
+        <p align="center">
+            <br>
+            <a href="https://stackoverflow.com/users/17349547/taimoor" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+                    alt="stack-overflow" height="30" /></a>
+            <a href="https://www.kaggle.com/taimoor2000" target="blank"><img align="center"
+                    src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
+                    alt="kaggle" height="30" /></a>
+            <a href="https://leetcode.com/taimooor/" target="_blank"><img align="center"
+                    src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
+                    alt="LeetCode height="30" /></a>
+        </p>
+        <p align="center">
+            <a href="https://www.hackerrank.com/Taimooor" target="_blank"><img align="center"
+                    src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
+                    alt="HackerRank" height="30" /></a>
+            <a href="https://app.datacamp.com/profile/taimooor" target="_blank"><img align="center"
+                    src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"
+                    alt="Twitter" height="30" /></a>
+            <br>
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Languages I work in</h2>
+        <p align="center">
+            <br>
+            <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"
+                    alt="javascript" height="30">
+            </a>
+            <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"
+                    alt="java" height="30">
+            </a>
+            <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" height="30" />
+            </a>
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+        <h2 align="center">Databases i use</h2>
+        <p align="center">
+            <br>
+            <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+                    alt="mongodb" height="30">
+            </a>
+            <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"
+                    alt="postgresql" height="30">
+            </a>
+            <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+                <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white"
+                    alt="firebase" height="30" />
+            </a>
+        </p>
+    </samp>
+</div>
+<div>&nbsp;</div>
+<div>
+    <samp>
+@@ -118,23 +98,13 @@
+                    src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
+                    alt="express" height="30" />
+            </a>
+            <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                    alt="react" height="30" />
+        </p>
+        <p align="center">
+            <br>
+            <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+                    alt="bootstrap" height="30" width="90" />
+            </a>
+            <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"
+                    alt="flutter" height="30" width="90" />
+            </a>
+            <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
+                    src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"
+                    alt="reactnative" height="30"  width="90"/> </a>
+            </a>     
+        </p>
+    </samp>
