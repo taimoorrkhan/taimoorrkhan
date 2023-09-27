@@ -7,12 +7,6 @@
   <img src="https://komarev.com/ghpvc/?username=taimoorrkhan&label=Profile%20views&color=0e75b6&style=flat" alt="taimoorrkhan" />
 </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=taimoorrkhan&theme=buddhism" alt="taimoorrkhan" />
-  </a>
-</p>
-
 <!-- Add social media badges and links -->
 <div align="center"> 
   <a href="https://twitter.com/taimoorrkhan" target="_blank">
@@ -30,8 +24,8 @@
 </div>
 
 <!-- Add a "Connect with me" section with icons and links -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://twitter.com/taimoorrkhan" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="taimoorrkhan" height="30" width="40" />
   </a>
