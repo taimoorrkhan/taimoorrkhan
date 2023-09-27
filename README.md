@@ -13,21 +13,18 @@
         <h2 align="center">Social Media</h2>
         <p align="center">
             <br>
-            <a href="https://www.linkedin.com/in/taimooor/" target="blank"><img align="center"
+            <a href="https://www.linkedin.com/in/taimoorrkhan/" target="blank"><img align="center"
                     src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
                     alt="Linkedin" height="30"  /></a>
             <a href="https://www.facebook.com/IAmTaimoorKhan/" target="blank"><img align="center"
                     src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white"
                     alt="Facebook" height="30" /></a>
-            <a href="mailto:sp20-bcs-026@cuiatk.edu.pk" target="blank"><img align="center"
-                    src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-                    alt="Email" height="30" /></a>
         </p>
         <p align="center">
-            <a href="https://instagram.com/taimoooorrr" target="blank"><img align="center"
+            <a href="https://instagram.com/taimoorrkhan" target="blank"><img align="center"
                     src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
                     alt="Instagram" height="30" /></a>
-            <a href="https://twitter.com/taimoooorr" target="blank"><img align="center"
+            <a href="https://twitter.com/taimoorrkhan" target="blank"><img align="center"
                     src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
                     alt="Twitter" height="30" /></a>
             <br>
@@ -43,9 +40,6 @@
             <a href="https://stackoverflow.com/users/17349547/taimoor" target="blank"><img align="center"
                     src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
                     alt="stack-overflow" height="30" /></a>
-            <a href="https://www.kaggle.com/taimoor2000" target="blank"><img align="center"
-                    src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"
-                    alt="kaggle" height="30" /></a>
             <a href="https://leetcode.com/taimooor/" target="_blank"><img align="center"
                     src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"
                     alt="LeetCode height="30" /></a>
@@ -54,9 +48,6 @@
             <a href="https://www.hackerrank.com/Taimooor" target="_blank"><img align="center"
                     src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"
                     alt="HackerRank" height="30" /></a>
-            <a href="https://app.datacamp.com/profile/taimooor" target="_blank"><img align="center"
-                    src="https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860"
-                    alt="Twitter" height="30" /></a>
             <br>
         </p>
     </samp>
