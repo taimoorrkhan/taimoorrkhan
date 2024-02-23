@@ -2,7 +2,7 @@
 
 <h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **React Native MovieBooking App**
+- 🔭 I’m currently working on **React Native Food Delivery App**
 - 👯 I’m looking to collaborate on **Mobile and Backend Proeject**
 - 🌱 I’m currently learning **DevOps, AWS and Azure**
 - 💬 Ask me about **React Native**
