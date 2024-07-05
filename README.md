@@ -2,10 +2,10 @@
 
 <h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **React Native Food Delivery App**
-- 👯 I’m looking to collaborate on **Mobile and Backend Proeject**
-- 🌱 I’m currently learning **DevOps, AWS and Azure**
-- 💬 Ask me about **React Native**
+- 🔭 I’m currently working on **Video Streaming Platform**
+- 👯 I’m looking to collaborate on **React Native  & NextJs Project**
+- 🌱 I’m currently learning **Kubenetes and Azure**
+- 💬 Ask me about **DSA, React Native & NextJS**
 
 - 👨‍💻 All of my projects are available at **https://taimoorkhan.netlify.app/**
 - ⚡ Fun fact **I still feel uncertain about my coding abilities.**
