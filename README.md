@@ -107,7 +107,8 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+<img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">Stars</h3>
