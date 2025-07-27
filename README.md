@@ -77,4 +77,12 @@
 
 ###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
