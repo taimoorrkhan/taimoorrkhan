@@ -62,6 +62,7 @@
 </div>
 
 
+-----
 <p>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&theme=transparent" alt="Top Languages" />
 </p>
