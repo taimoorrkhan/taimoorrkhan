@@ -70,7 +70,9 @@
 </p>
 
 
+<p>
 <img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
+</p>
 
 ###
 
