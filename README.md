@@ -1,20 +1,8 @@
 <a href="https://github.com/taimooorr">![Taimoor Profile GIF](./assets/name.gif)</a>
 
-<h3 align="center"> Full Stack Developer</h3>
 
-- 🔭 I’m currently working on **Video Streaming Platform**
-- 👯 I’m looking to collaborate on **React Native  & NextJs Project**
-- 🌱 I’m currently learning **Kubenetes and Azure**
-- 💬 Ask me about **DSA, React Native & NextJS**
 
-- 👨‍💻 All of my projects are available at **https://taimoorkhan.netlify.app/**
-- ⚡ Fun fact **I still feel uncertain about my coding abilities.**
-
-<div> <a href="https://twitter.com/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://instagram.com/taimoorrkhan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div><h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/twitter.svg" alt="taimoorrkhan" height="30" width="40" /></a><a href="https://linkedin.com/in/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/linked-in-alt.svg" alt="taimoorrkhan" height="30" width="40" /></a><a href="https://fb.com/IAmTaimoorKhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/facebook.svg" alt="IAmTaimoorKhan" height="30" width="40" /></a><a href="https://www.hackerrank.com/Taimooor" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="Taimooor" height="30" width="40" /></a><a href="https://www.leetcode.com/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="taimoorrkhan" height="30" width="40" /></a><a href="https://instagram.com/taimoorrkhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/instagram.svg" alt="taimoorrkhan" height="30" width="40" /></a></p>
 
@@ -101,20 +89,14 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 <br clear="both">
 
 
 <img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
 
 ###
-<h3 align="left">Stars</h3>
 <img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&theme=transparent" alt=taimoorrkhan />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&locale=en&theme=transparent" alt="taimoorrkhan" /></p>
 
 <p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="taimoorrkhan" /></p>
 
