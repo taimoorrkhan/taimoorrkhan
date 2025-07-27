@@ -7,6 +7,7 @@
 </div>
 
 ### 💻🚀 My Development Toolkit
+
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript logo" />
@@ -68,7 +69,6 @@
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="GitHub Streak" />
 </p>
 
-###
 
 <img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
 
