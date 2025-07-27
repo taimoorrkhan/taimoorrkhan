@@ -6,7 +6,7 @@
   </p>
 </div>
 
-### 💻🚀 My Development Toolkit
+### 💻 Key Technologies & Tools
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
@@ -41,7 +41,7 @@
 </div>
 
 
-## 📡 My Tech Community Links
+## 📡 Professional Platforms & Contributions
 
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
@@ -70,6 +70,15 @@
 <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="GitHub Streak" />
 </p>
 
+<!-- NEW ADDITION: Total Stats -->
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&theme=transparent" alt="GitHub Stats" />
+</p>
+
+<!-- NEW ADDITION: Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=taimoorrkhan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
+</p>
 
 <p>
 <img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
