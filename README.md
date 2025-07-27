@@ -6,8 +6,6 @@
   </p>
 </div>
 
----
-
 ### 💻🚀 My Development Toolkit
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
@@ -41,38 +39,33 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Apache Kafka logo" />
 </div>
 
----
 
 ## 📡 My Tech Community Links
 
-<div align="center" style="margin-top:10px;">
-  <a href="https://yourwebsite.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="Personal Website" />
-  </a>
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
   <a href="https://stackoverflow.com/users/17349547/taimoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stackoverflow" />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stack Overflow logo" />
   </a>
+  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Dribbble logo" />
   <a href="https://www.hackerrank.com/profile/Taimooor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank logo" />
   </a>
-  <a href="https://dribbble.com/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Dribbble" />
-  </a>
+  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />
   <a href="https://dev.to/taimoorrkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="Dev.to" />
+    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
+  </a>
+   <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
 </div>
 
 
----
-
-### 📊 GitHub Highlights
-<img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
-
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&theme=transparent" alt="Top Languages" />
-
 <p>
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="GitHub Streak" />
+<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+<p>
+<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="GitHub Streak" />
 </p>
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
