@@ -1,7 +1,5 @@
 <div align="center">
   <img src="./assets/name.gif" alt="Taimoor Profile GIF" width="100%" />
-  
-  <h1 style="color:#333; font-weight:700;">Hi, I'm Taimoor 👋</h1>
   <p style="font-size: 1.2rem; color:#555; max-width:600px; margin:auto;">
     A passionate <b>Full Stack Developer</b> crafting clean, modern, and scalable digital products.
     I love exploring new technologies and building impactful software.
@@ -10,7 +8,7 @@
 
 ---
 
-### 💻 Tech Stack
+### 💻🚀 My Development Toolkit
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
   <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript logo" />
@@ -45,21 +43,26 @@
 
 ---
 
-### 🌐 Connect With Me
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
+## 📡 My Tech Community Links
+
+<div align="center" style="margin-top:10px;">
+  <a href="https://yourwebsite.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&style=for-the-badge" height="35" alt="Personal Website" />
+  </a>
   <a href="https://stackoverflow.com/users/17349547/taimoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stack Overflow logo" />
+    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stackoverflow" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Dribbble logo" />
   <a href="https://www.hackerrank.com/profile/Taimooor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank logo" />
+    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />
+  <a href="https://dribbble.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Dribbble" />
+  </a>
   <a href="https://dev.to/taimoorrkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
+    <img src="https://img.shields.io/static/v1?message=Dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="Dev.to" />
   </a>
 </div>
+
 
 ---
 
