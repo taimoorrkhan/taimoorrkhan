@@ -75,14 +75,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&theme=transparent" alt="GitHub Stats" />
 </p>
 
-<!-- NEW ADDITION: Trophies -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=taimoorrkhan&theme=flat&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
-
-<p>
-<img src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/snake.svg" alt="Snake animation" />
-</p>
 
 ###
 
