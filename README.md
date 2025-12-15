@@ -56,7 +56,7 @@
   <a href="https://dev.to/taimoorrkhan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
   </a>
-   <a href="[https://yourwebsite.com](https://taimoorkhan-io.vercel.app/)" target="_blank">
+   <a href="https://taimoorkhan-io.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Visit-My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
   </a>
 </div>
