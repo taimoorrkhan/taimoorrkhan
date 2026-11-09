@@ -1,89 +1,42 @@
-<div align="center">
-  <img src="./assets/name.gif" alt="Taimoor Profile GIF" width="100%" />
-  <p style="font-size: 1.2rem; color:#555; max-width:600px; margin:auto;">
-    A passionate <b>Full Stack Developer</b> crafting clean, modern, and scalable digital products.
-    I love exploring new technologies and building impactful software.
-  </p>
-</div>
+<a href="https://taimoorkhan.dev"><img src="./assets/header.svg" width="100%" alt="Taimoor Khan, software engineer" /></a>
 
-### 💻 Key Technologies & Tools
+I'm Taimoor Khan, a software engineer specialising in backend services, cloud infrastructure and applied machine learning. I work primarily with .NET and Python, and deploy on Azure with Docker and Kubernetes.
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="JavaScript logo" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="TypeScript logo" />
-  <img src="https://skillicons.dev/icons?i=cs" height="30" alt="C# logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python logo" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML5 logo" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS logo" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="React logo" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="Next.js logo" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="Node.js logo" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt=".NET logo" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="MySQL logo" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="PostgreSQL logo" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="MongoDB logo" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="TailwindCSS logo" />
-  <img src="https://skillicons.dev/icons?i=azure" height="30" alt="Azure logo" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="Kubernetes logo" />
-  <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="Jenkins logo" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="Git logo" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="Figma logo" />
-  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="Postman logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="30" alt="Redux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="30" alt="Storybook logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="30" alt="Redis logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="30" alt="Sequelize logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="30" alt="Jest logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="30" alt="Socket.IO logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original.svg" height="30" alt="Apache Kafka logo" />
-</div>
+My recent research focuses on computer vision for drone and aerial imagery, including mound detection and missing-mound identification, tree species classification, tree counting and biomass estimation.
 
+For my MSc in Computer Science at the University of South Wales, I developed a deep learning model to forecast water levels on the River Taff for flood risk assessment, delivered through a real-time dashboard with 24-hour predictions.
 
-## 📡 Professional Platforms & Contributions
+I'm open to full-time roles and project collaborations. You can reach me through [taimoorkhan.dev](https://taimoorkhan.dev) or [info@taimoorkhan.dev](mailto:info@taimoorkhan.dev).
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" alt="Discord logo" />
-  <a href="https://stackoverflow.com/users/17349547/taimoor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&style=for-the-badge" height="35" alt="Stack Overflow logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Dribbble&logo=dribbble&label=&color=EA4C89&logoColor=white&style=for-the-badge" height="35" alt="Dribbble logo" />
-  <a href="https://www.hackerrank.com/profile/Taimooor" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&style=for-the-badge" height="35" alt="HackerRank logo" />
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&style=for-the-badge" height="35" alt="Medium logo" />
-  <a href="https://dev.to/taimoorrkhan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&style=for-the-badge" height="35" alt="dev.to logo" />
-  </a>
-   <a href="https://taimoorkhan-io.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Visit-My%20Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" height="35" alt="Portfolio" />
-  </a>
-</div>
+<a href="https://taimoorkhan.dev"><img src="https://img.shields.io/badge/taimoorkhan.dev-2f7f86?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://www.linkedin.com/in/taimoorrkhan/"><img src="https://img.shields.io/badge/LinkedIn-1f2a33?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/taimoorrkhan"><img src="https://img.shields.io/badge/X-1f2a33?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
+<a href="https://stackoverflow.com/users/17349547/taimoor"><img src="https://img.shields.io/badge/Stack_Overflow-1f2a33?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
+<a href="https://dev.to/taimoorrkhan"><img src="https://img.shields.io/badge/dev.to-1f2a33?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
+<a href="https://taimoorkhan.dev/media/cv/999a8829-5248-49fe-862d-70271f6a86ef.pdf"><img src="https://img.shields.io/badge/CV-1f2a33?style=flat-square&logo=readdotcv&logoColor=white" alt="CV" /></a>
 
+### What I work with
 
------
-<p>
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&theme=transparent" alt="Top Languages" />
-</p>
-<p>
-<img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=taimoorrkhan&theme=transparent" alt="GitHub Streak" />
-</p>
+| | |
+|---|---|
+| Languages | <img src="https://skillicons.dev/icons?i=cs,py,ts,js" alt="C#, Python, TypeScript, JavaScript" /> |
+| Backend | <img src="https://skillicons.dev/icons?i=dotnet,fastapi" alt="ASP.NET, FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" width="48" alt="Entity Framework" /> <img src="./assets/microservices.svg" width="48" alt="Microservices" /> |
+| Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" /> |
+| Mobile | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="48" alt="React Native" /> <img src="https://skillicons.dev/icons?i=swift" alt="SwiftUI" /> |
+| Data | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL, Redis" /> |
+| Cloud and DevOps | <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions" alt="Azure, Docker, Kubernetes, Terraform, GitHub Actions" /> |
+| Machine learning | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" /> |
+| Testing | <img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright" /><br/><sub>xUnit, Moq</sub> |
 
-<!-- NEW ADDITION: Total Stats -->
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
+### On GitHub
 
-
-###
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&hide_border=true&bg_color=1f2a33&title_color=7fc4c9&icon_color=2f7f86&text_color=c9d6d8&count_private=true" alt="GitHub stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&hide_border=true&bg_color=1f2a33&title_color=7fc4c9&text_color=c9d6d8" alt="Most used languages" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph.svg">
+  <img alt="Contribution graph being eaten by Pac-Man" src="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph.svg">
 </picture>
 
-###
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2f7f86,100:1f2a33" width="100%" alt="" />
