@@ -11,7 +11,6 @@ I'm open to full-time roles and project collaborations. You can reach me through
 <a href="https://taimoorkhan.dev"><img src="https://img.shields.io/badge/taimoorkhan.dev-2f7f86?style=flat-square&logo=googlechrome&logoColor=white" alt="Website" /></a>
 <a href="https://www.linkedin.com/in/taimoorrkhan/"><img src="https://img.shields.io/badge/LinkedIn-1f2a33?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://twitter.com/taimoorrkhan"><img src="https://img.shields.io/badge/X-1f2a33?style=flat-square&logo=x&logoColor=white" alt="X" /></a>
-<a href="https://stackoverflow.com/users/17349547/taimoor"><img src="https://img.shields.io/badge/Stack_Overflow-1f2a33?style=flat-square&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 <a href="https://dev.to/taimoorrkhan"><img src="https://img.shields.io/badge/dev.to-1f2a33?style=flat-square&logo=devdotto&logoColor=white" alt="dev.to" /></a>
 <a href="https://taimoorkhan.dev/media/cv/999a8829-5248-49fe-862d-70271f6a86ef.pdf"><img src="https://img.shields.io/badge/CV-1f2a33?style=flat-square&logo=readdotcv&logoColor=white" alt="CV" /></a>
 
@@ -30,8 +29,7 @@ I'm open to full-time roles and project collaborations. You can reach me through
 
 ### On GitHub
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=taimoorrkhan&show_icons=true&hide_border=true&bg_color=1f2a33&title_color=7fc4c9&icon_color=2f7f86&text_color=c9d6d8&count_private=true" alt="GitHub stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taimoorrkhan&layout=compact&hide_border=true&bg_color=1f2a33&title_color=7fc4c9&text_color=c9d6d8" alt="Most used languages" />
+<img height="165" src="https://streak-stats.demolab.com/?user=taimoorrkhan&hide_border=true&background=1f2a33&ring=2f7f86&fire=7fc4c9&currStreakLabel=7fc4c9&sideLabels=c9d6d8&currStreakNum=e8eef0&sideNums=e8eef0&dates=9fb8bc" alt="Contribution streak" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/taimoorrkhan/taimoorrkhan/output/pacman-contribution-graph-dark.svg">
