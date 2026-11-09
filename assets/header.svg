@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="1200" height="320" role="img" aria-labelledby="t">
+  <title id="t">Taimoor Khan, software engineer</title>
+  <style>
+    .name { font: 700 68px "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif; fill: #e8eef0; letter-spacing: -1px; }
+    .sub  { font: 400 24px "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif; fill: #9fb8bc; }
+    .tag  { font: 400 13px "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif; fill: #7fc4c9; }
+    .obs  { stroke-dasharray: 360; stroke-dashoffset: 360; animation: draw 1.8s ease-out .2s forwards; }
+    .fc   { opacity: 0; animation: show .6s ease-out 1.9s forwards; }
+    @keyframes draw { to { stroke-dashoffset: 0; } }
+    @keyframes show { to { opacity: 1; } }
+    @media (prefers-reduced-motion: reduce) {
+      .obs { animation: none; stroke-dashoffset: 0; }
+      .fc  { animation: none; opacity: 1; }
+    }
+  </style>
+
+  <rect width="1200" height="320" rx="16" fill="#1f2a33"/>
+
+  <text class="name" x="64" y="150">Taimoor Khan</text>
+  <text class="sub" x="67" y="194">Software engineer</text>
+
+  <!-- River level forecast: a nod to the River Taff water-level model from my MSc -->
+  <text class="tag" x="640" y="40">River level forecast</text>
+  <g stroke="#2c3b46" stroke-width="1">
+    <line x1="640" y1="80" x2="1140" y2="80"/>
+    <line x1="640" y1="130" x2="1140" y2="130"/>
+    <line x1="640" y1="180" x2="1140" y2="180"/>
+  </g>
+  <path d="M640 170 L672 162 L704 168 L736 150 L768 141 L800 146 L832 128 L864 120 L896 126 L928 110 L960 104 V230 H640 Z" fill="#2f7f86" opacity=".18"/>
+  <path class="obs" d="M640 170 L672 162 L704 168 L736 150 L768 141 L800 146 L832 128 L864 120 L896 126 L928 110 L960 104" fill="none" stroke="#7fc4c9" stroke-width="3" stroke-linejoin="round" stroke-linecap="round"/>
+  <g class="fc">
+    <polygon points="960,104 996,88 1032,92 1068,98 1104,92 1140,100 1140,148 1104,132 1068,132 1032,120 996,108" fill="#7fc4c9" opacity=".12"/>
+    <path d="M960 104 L996 98 L1032 106 L1068 115 L1104 112 L1140 124" fill="none" stroke="#7fc4c9" stroke-width="2.5" stroke-dasharray="6 6" stroke-linecap="round"/>
+    <line x1="960" y1="64" x2="960" y2="230" stroke="#4b6270" stroke-dasharray="3 5"/>
+    <circle cx="960" cy="104" r="5" fill="#e8eef0"/>
+    <text class="tag" x="948" y="58" text-anchor="end">observed</text>
+    <text class="tag" x="972" y="58">next 24h</text>
+  </g>
+
+  <path d="M0 262 C180 242 360 286 600 266 S1020 244 1200 264 V304 Q1200 320 1184 320 H16 Q0 320 0 304 Z" fill="#2f7f86" opacity=".45"/>
+  <path d="M0 282 C220 266 420 302 640 284 S1040 270 1200 286 V304 Q1200 320 1184 320 H16 Q0 320 0 304 Z" fill="#2f7f86"/>
+</svg>
