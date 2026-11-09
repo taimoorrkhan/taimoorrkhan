@@ -16,16 +16,7 @@ I'm open to full-time roles and project collaborations. You can reach me through
 
 ### What I work with
 
-| | |
-|---|---|
-| Languages | <img src="https://skillicons.dev/icons?i=cs,py,ts,js" alt="C#, Python, TypeScript, JavaScript" /> |
-| Backend | <img src="https://skillicons.dev/icons?i=dotnet,fastapi" alt="ASP.NET, FastAPI" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/entityframeworkcore/entityframeworkcore-original.svg" width="48" alt="Entity Framework" /> <img src="./assets/microservices.svg" width="48" alt="Microservices" /> |
-| Frontend | <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind CSS" /> |
-| Mobile | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" width="48" alt="React Native" /> <img src="https://skillicons.dev/icons?i=swift" alt="SwiftUI" /> |
-| Data | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="48" alt="SQL Server" /> <img src="https://skillicons.dev/icons?i=postgres,redis" alt="PostgreSQL, Redis" /> |
-| Cloud and DevOps | <img src="https://skillicons.dev/icons?i=azure,docker,kubernetes,terraform,githubactions" alt="Azure, Docker, Kubernetes, Terraform, GitHub Actions" /> |
-| Machine learning | <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow, PyTorch" /> |
-| Testing | <img src="https://skillicons.dev/icons?i=jest" alt="Jest" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/playwright/playwright-original.svg" width="48" alt="Playwright" /><br/><sub>xUnit, Moq</sub> |
+<img src="./assets/stack.svg" width="100%" alt="Languages: C#, Python, TypeScript, JavaScript. Backend: ASP.NET, FastAPI, Entity Framework, microservices. Frontend: React, Next.js, Tailwind CSS. Mobile: React Native, SwiftUI. Data: SQL Server, PostgreSQL, Redis. Cloud and DevOps: Azure, Docker, Kubernetes, Terraform, GitHub Actions. Machine learning: TensorFlow, PyTorch. Testing: Jest, Playwright, xUnit, Moq." />
 
 ### On GitHub
 
